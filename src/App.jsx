@@ -1,10 +1,6 @@
 export default function App() {
   return (
-    <div
-      style={{
-        margin: "0 auto",
-      }}
-    >
+    <div style={{ padding: 0, margin: 0 }}>
       <div
         style={{
           display: "flex",
