@@ -2,10 +2,6 @@ export default function App() {
   return (
     <div
       style={{
-        width: "100%",
-        height: "100vh",
-        borderRight: "1px solid black",
-        borderLeft: "1px solid black",
         margin: "0 auto",
       }}
     >
