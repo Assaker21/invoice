@@ -11,7 +11,7 @@ export default function App() {
           borderBottom: "1px solid black",
         }}
       >
-        <h1 style={{ padding: 0, margin: 0 }}>Invoice #1024</h1>
+        <h1 style={{ padding: 0, margin: 0 }}>Invoice #0005</h1>
         <img
           src="ca.png"
           style={{ width: "30px", aspectRatio: 0.7142, opacity: 0.8 }}
@@ -45,7 +45,7 @@ export default function App() {
               fontWeight: "500",
             }}
           >
-            July 31, 2023
+            September 26, 2024
           </span>
         </div>
         <div style={{ flex: 1 }}>
@@ -68,6 +68,8 @@ export default function App() {
             RK-TEC
             <br />
             Charbel Abi Younes
+            <br />
+            Carole
           </span>
         </div>
       </div>
@@ -101,42 +103,27 @@ export default function App() {
           </thead>
           <tbody>
             <tr>
-              <td>Item 1</td>
-              <td class="right-align">2</td>
-              <td class="right-align">$50.00</td>
-              <td class="right-align">$100.00</td>
-            </tr>
-            <tr>
-              <td>Item 2</td>
+              <td>
+                Activate Word, PowerPoint, Excel, Outlook, and all other Office
+                Programs
+              </td>
               <td class="right-align">1</td>
-              <td class="right-align">$75.00</td>
-              <td class="right-align">$75.00</td>
+              <td class="right-align">$5.00</td>
+              <td class="right-align">$5.00</td>
             </tr>
             <tr>
-              <td>Item 3</td>
-              <td class="right-align">3</td>
-              <td class="right-align">$20.00</td>
-              <td class="right-align">$60.00</td>
+              <td>Move emails from old account to new account</td>
+              <td class="right-align">1</td>
+              <td class="right-align">$10.00</td>
+              <td class="right-align">$10.00</td>
             </tr>
           </tbody>
           <tfoot>
             <tr>
               <td colspan="3" class="right-align">
-                Subtotal
-              </td>
-              <td class="right-align">$235.00</td>
-            </tr>
-            <tr>
-              <td colspan="3" class="right-align">
-                Tax (10%)
-              </td>
-              <td class="right-align">$23.50</td>
-            </tr>
-            <tr>
-              <td colspan="3" class="right-align">
                 Total
               </td>
-              <td class="right-align">$258.50</td>
+              <td class="right-align">$15.00</td>
             </tr>
           </tfoot>
         </table>
