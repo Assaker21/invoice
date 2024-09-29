@@ -1,0 +1,25 @@
+{
+  "invoiceNumber": 5,
+  "company": "RK-TEC",
+  "person": "Charbel Abi Younes",
+  "items": [
+    {
+      "description": "Re-install Word, PowerPoint, Excel, Outlook, and all other Office Programs",
+      "quantity": 1,
+      "clients": ["Clara Saade"],
+      "unitPrice": 5
+    },
+    {
+      "description": "Activate Word, PowerPoint, Excel, Outlook, and all other Office Programs",
+      "quantity": 2,
+      "clients": ["Clara Saade", "Carole El Hage"],
+      "unitPrice": 5
+    },
+    {
+      "description": "Move emails from old account to new account",
+      "quantity": 2,
+      "clients": ["Carole El Hage", "Clara Saade"],
+      "unitPrice": 10
+    }
+  ]
+}
